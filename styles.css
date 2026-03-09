@@ -1,0 +1,26 @@
+*{
+    font-family: Ariel, "Trebuchet Ms", "Times New Roman" ;
+
+}
+
+.recipe-card {
+    background-color: beige;
+    width: 50%;
+    margin: 16px auto;
+    padding: 10px 20px;
+}
+
+.recipe-card h1,
+.recipe-profile h1, 
+.recipe-profile p {
+    text-align: center;
+}
+
+.recipe-card li,
+.ingredients li,
+.steps li {
+    margin-bottom: 8px;
+}
+
+
+
